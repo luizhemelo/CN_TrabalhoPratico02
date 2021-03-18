@@ -1,9 +1,3 @@
-"""
-LUIZ HENRIQUE DE MELO SANTOS
-NATURAL COMPUTATION - 2020/2 - CLASS:TB1
-TEACHER.: GISELE LOBO PAPPA
-"""
-
 ## usage ##
 ## $ python3 main.py <instance-name> <epochs> <ants-number> <rho> <alpha> <beta> <tau>
 
