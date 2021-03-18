@@ -1,9 +1,3 @@
-"""
-LUIZ HENRIQUE DE MELO SANTOS
-NATURAL COMPUTATION - 2020/2 - CLASS:TB1
-TEACHER.: GISELE LOBO PAPPA
-"""
-
 import numpy as np
 from math import *
 from random import *
